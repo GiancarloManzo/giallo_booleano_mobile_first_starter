@@ -24,4 +24,7 @@
     padding: 0;
     margin-right: 217px;
   }
+  .btn {
+    min-width: 100px;
+  }
 }
